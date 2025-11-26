@@ -3,13 +3,13 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1abc9c&size=25&center=true&vCenter=true&width=900&height=100&lines=Mobile+Developer+App+|+Flutter;"></a>
 </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanhydara&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanhydara" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_hydara_21" target="blank"><img src="https://img.shields.io/twitter/follow/_hydara_21?logo=twitter&style=for-the-badge" alt="_hydara_21" /></a> </p>
-
 <div align=center>
         <img src="https://cdn.wallpapersafari.com/12/16/hbk2ij.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="500">
     </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanhydara&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanhydara" /> </p>
+
+<p align="left"> <a href="https://twitter.com/_hydara_21" target="blank"><img src="https://img.shields.io/twitter/follow/_hydara_21?logo=twitter&style=for-the-badge" alt="_hydara_21" /></a> </p>
 
 
 - 🌱 I’m currently learning **studying Flutter**
