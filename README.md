@@ -12,14 +12,12 @@
     </div>
 
 
-
 - 🌱 I’m currently learning **studying Flutter**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdelrahmanhydara/](https://www.linkedin.com/in/abdelrahmanhydara/)
 
-- 📫 How to reach me **abdelrahmanhydara@gmail.com**
+- 📫 How to reach me **alyhydara112@gmail.com**
 
-- ⚡ Fun fact **I love football 🥰⚽️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
