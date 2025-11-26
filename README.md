@@ -4,7 +4,7 @@
 </p> 
 
 <div align=center>
-        <img src="https://cdn.wallpapersafari.com/12/16/hbk2ij.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="500">
+        <img src="https://cdn.wallpapersafari.com/12/16/hbk2ij.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="600">
     </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanhydara&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanhydara" /> </p>
@@ -12,12 +12,11 @@
 <p align="left"> <a href="https://twitter.com/_hydara_21" target="blank"><img src="https://img.shields.io/twitter/follow/_hydara_21?logo=twitter&style=for-the-badge" alt="_hydara_21" /></a> </p>
 
 
-- 🌱 I’m currently learning **studying Flutter**
-
+- 👋 I’m a Professional **Flutter Developer**
+ 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdelrahmanhydara/](https://www.linkedin.com/in/abdelrahmanhydara/)
 
 - 📫 How to reach me **alyhydara112@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
