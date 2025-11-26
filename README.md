@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/_hydara_21" target="blank"><img src="https://img.shields.io/twitter/follow/_hydara_21?logo=twitter&style=for-the-badge" alt="_hydara_21" /></a> </p>
 
 <div align=center>
-        <img src="github.com/vjspranav/Wallpapers/blob/v2/Batman/Batman_10.jpg?raw=true" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://raw.githubusercontent.com/vjspranav/Wallpapers/refs/heads/v2/Batman/Batman_10.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 
 
