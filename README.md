@@ -55,7 +55,7 @@
 
   <!-- SourceTree -->
   <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_sourcetree/atlassian_sourcetree-icon.svg" alt="sourcetree" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/atlassian_sourcetree/atlassian_sourcetree-icon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglTrI-WTh1RjtgJ83GqH8KDvdB2aRgzmR0A&s)" alt="sourcetree" width="40" height="40"/>
   </a>
 
   <!-- Postman -->
