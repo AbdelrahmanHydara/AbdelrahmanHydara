@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/_hydara_21" target="blank"><img src="https://img.shields.io/twitter/follow/_hydara_21?logo=twitter&style=for-the-badge" alt="_hydara_21" /></a> </p>
 
 
-- 👋 I’m a Professional **Flutter Developer**
+- 🌟 I’m a Professional **Flutter Developer**
  
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdelrahmanhydara/](https://www.linkedin.com/in/abdelrahmanhydara/)
 
